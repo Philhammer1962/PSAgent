@@ -1,0 +1,19 @@
+<#
+in this order
+Repo exists on GitHub
+URL matches exactly
+Push target exists
+#>
+
+git remote -v 
+git branch
+git status
+
+Link = https://github.com/Philhammer1962/PSAgent
+
+git add .
+git commit -m "Initial working PSAgent framework with analyzer module"
+
+known good state
+
+confirm github
